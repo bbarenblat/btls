@@ -40,8 +40,6 @@ you’ve done so, you can build and run the test suite.
 
 ---
 
-This is not an official Google product.
-
 This product includes cryptographic software written by [Eric
 Young](mailto:eay@cryptsoft.com).
 
